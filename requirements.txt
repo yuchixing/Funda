@@ -1,0 +1,7 @@
+schedule
+feedparser
+requests
+beautifulsoup4
+google-generativeai
+notion-client
+python-dotenv
